@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naghul Varshan T</h1>
-<h3 align="center">Software Developer | Java | Spring Boot | MERN Stack | React Native</h3>
+<h3 align="center">Software Developer | Java | MERN Stack | Python |</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Developer;Java+Spring+Boot+Developer;Full+Stack+Developer;React+Native+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
