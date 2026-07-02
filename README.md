@@ -75,20 +75,6 @@ Software Developer | Java | Spring Boot | MERN Stack
 🌍 **Website:** https://naghulvarshan.netlify.app
 ---
 
-## 🎧 Spotify
-
-<p align="center">
-
-<a href="https://open.spotify.com/user/31b55ujhrolz2swhbnw76fyas32m">
-<img src="https://img.shields.io/badge/Spotify-My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-
-</p>
-
-> Replace **YOUR_SPOTIFY_USER_ID** with your Spotify User ID.
-
----
-
 # 💻 Skills
 
 ### Programming Languages
