@@ -64,16 +64,26 @@ Software Developer | Java | Spring Boot | MERN Stack
 
 # 🌐 Portfolio
 
-🚧 Coming Soon...
+<p align="center">
 
+<a href="https://naghulvarshan.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+🌍 **Website:** https://naghulvarshan.netlify.app
 ---
 
 # 🎧 Spotify
-
+ 
 <p align="center">
-<a href="https://open.spotify.com/">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/user/31b55ujhrolz2swhbnw76fyas32m?si=bb2b89f7ec8346e2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+
+<a href="https://open.spotify.com/user/31b55ujhrolz2swhbnw76fyas32m">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b55ujhrolz2swhbnw76fyas32m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+
 </a>
+
 </p>
 
 > Replace **YOUR_SPOTIFY_USER_ID** with your Spotify User ID.
