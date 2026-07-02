@@ -1,100 +1,150 @@
-# Hi 👋, I'm Naghul Varshan T
-
-<h3 align="center">Full Stack Developer | Android Developer | Java & Spring Boot Enthusiast | React Native Developer</h3>
+<h1 align="center">Hi 👋, I'm Naghul Varshan T</h1>
+<h3 align="center">Software Developer | Java | Spring Boot | MERN Stack | React Native</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Android+App+Developer;Spring+Boot+Backend+Developer;React+Native+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Developer;Java+Spring+Boot+Developer;Full+Stack+Developer;React+Native+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/tnaghulvarshan">
+    <img src="https://komarev.com/ghpvc/?username=tnaghulvarshan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/tnaghulvarshan?tab=followers">
+    <img src="https://img.shields.io/github/followers/tnaghulvarshan?logo=github&style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/tnaghulvarshan">
+    <img src="https://img.shields.io/github/stars/tnaghulvarshan?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-* 🎓 Computer Science Student
-* 💻 Passionate about Full Stack Web Development & Mobile App Development
-* 🌱 Currently learning **Spring Boot, React Native, Cloud Technologies & System Design**
-* 📱 Building **Linksy** – A Business Networking & Referral Platform
-* 👶 Developing **PediaCare** – Child Healthcare & Vaccination Management System
-* 🕶️ Working on a **Forensic Crime Scene VR Project**
-* 🎯 Goal: Become a Software Engineer at a Top Product Company
-* ⚡ Love solving real-world problems with technology
+🎓 MCA Student at Saveetha College of Liberal Arts and Sciences
+
+💻 Passionate Software Developer
+
+🌱 Currently Learning
+
+- Spring Boot
+- React Native
+- Cloud Computing
+- System Design
+
+🚀 Current Projects
+
+- 📱 Linksy – Business Networking Platform
+- 👶 PediaCare – Healthcare Management System
+- 🕶 FocusLab – Unity VR Application
+
+🎯 Career Goal
+
+Become a Software Engineer in a Product-Based Company.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect with Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/naghul-varshan-t-108ba4303">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:naghulvarshan278@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/tnaghulvarshan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-## 💼 Portfolio
-
-🚧 Portfolio Website Coming Soon...
-
----
-
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,reactivex,nodejs,express,mongodb,mysql,html,css,js,bootstrap,git,github,firebase,androidstudio,vscode,figma,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,js,html,css,bootstrap,git,github,postman,firebase,vscode,androidstudio,figma,c,cpp,python&perline=7"/>
 
 </p>
 
 ---
 
-## 🚀 Current Projects
+# 🚀 Featured Projects
 
-### 📱 Linksy
+## 📱 Linksy
 
-Business Networking & Referral Platform built using **React Native**.
+Business Networking Platform built using React Native.
 
-### 👶 PediaCare
+**Tech Stack**
 
-Healthcare application for baby vaccination reminders, appointment booking, and diet recommendations.
-
-### 🕶️ Forensic Crime Scene VR
-
-Virtual Reality-based crime scene investigation system for educational purposes.
-
-### 📚 Student Result Management System
-
-Spring Boot application with PDF generation and grading system.
+- React Native
+- Spring Boot
+- MySQL
 
 ---
 
-## 📊 GitHub Statistics
+## 👶 PediaCare
+
+Healthcare application for Pediatric Clinics.
+
+### Features
+
+- Appointment Booking
+- Vaccination Reminder
+- Patient Records
+- Diet Recommendation
+
+---
+
+## 🎓 LearnDude
+
+Learning Management System developed using MERN Stack.
+
+### Features
+
+- Authentication
+- Course Management
+- Responsive Dashboard
+- REST APIs
+
+---
+
+## 🕶 FocusLab
+
+VR-based Interactive Application developed using Unity.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tnaghulvarshan&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tnaghulvarshan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnaghulvarshan&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnaghulvarshan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=tnaghulvarshan&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=tnaghulvarshan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -104,48 +154,86 @@ Spring Boot application with PDF generation and grading system.
 
 ---
 
-## 🛠 Tools & Platforms
-
-* Java
-* Spring Boot
-* React
-* React Native
-* Android Studio
-* VS Code
-* Git
-* GitHub
-* MongoDB
-* MySQL
-* Firebase
-* Postman
-* Figma
-
----
-
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tnaghulvarshan&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tnaghulvarshan&theme=tokyonight&column=7"/>
 
 </p>
 
 ---
 
-## 👀 Visitor Counter
+# 🛠 Languages & Tools
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tnaghulvarshan&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,git,github,postman,firebase,vscode,androidstudio"/>
 
 </p>
 
 ---
 
-## 💡 Quote
+# 📚 Currently Learning
 
-> *"Code. Learn. Build. Improve. Repeat."*
+- Spring Security
+- JWT Authentication
+- Docker
+- AWS
+- Kubernetes
+- React Native
+- Microservices
 
 ---
 
-⭐ If you like my work, don't forget to **Star** my repositories!
+# 📂 My Projects
+
+| Project | Description |
+|---------|-------------|
+| Linksy | Business Networking Platform |
+| PediaCare | Child Healthcare Management |
+| LearnDude | MERN Learning Management System |
+| FocusLab | Unity VR Project |
+| Student Result Management | Spring Boot Result Portal |
+
+---
+
+# ⚡ Fun Fact
+
+```java
+while(!success){
+    learn();
+    build();
+    improve();
+}
+```
+
+---
+
+# 📫 Contact Me
+
+📧 Email
+
+**naghulvarshan278@gmail.com**
+
+📍 Chennai, Tamil Nadu, India
+
+---
+
+# ❤️ Support
+
+If you like my work,
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🤝 Connect with me on LinkedIn
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+
+</p>
