@@ -72,7 +72,7 @@ Software Developer | Java | Spring Boot | MERN Stack
 
 <p align="center">
 <a href="https://open.spotify.com/">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31b55ujhrolz2swhbnw76fyas32m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/user/31b55ujhrolz2swhbnw76fyas32m?si=bb2b89f7ec8346e2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </a>
 </p>
 
