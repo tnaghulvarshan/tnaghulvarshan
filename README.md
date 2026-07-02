@@ -1,48 +1,44 @@
-<h1 align="center">Hi 👋, I'm Naghul Varshan T</h1>
-<h3 align="center">Software Developer | Java | MERN Stack | Python |</h3>
+<!-- Animated Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Developer;Java+Spring+Boot+Developer;Full+Stack+Developer;React+Native+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=250&section=header&text=Naghul%20Varshan%20T&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Java%20|%20Spring%20Boot%20|%20MERN%20Stack&descAlignY=58"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Naghul Varshan T</h1>
+
+<h3 align="center">
+Software Developer | Java | Spring Boot | MERN Stack
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;REST+API+Developer"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tnaghulvarshan">
-    <img src="https://komarev.com/ghpvc/?username=tnaghulvarshan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
+<a href="https://komarev.com/ghpvc/?username=tnaghulvarshan">
+<img src="https://komarev.com/ghpvc/?username=tnaghulvarshan&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</a>
 
-  <a href="https://github.com/tnaghulvarshan?tab=followers">
-    <img src="https://img.shields.io/github/followers/tnaghulvarshan?logo=github&style=for-the-badge"/>
-  </a>
+<a href="https://github.com/tnaghulvarshan?tab=followers">
+<img src="https://img.shields.io/github/followers/tnaghulvarshan?style=for-the-badge"/>
+</a>
 
-  <a href="https://github.com/tnaghulvarshan">
-    <img src="https://img.shields.io/github/stars/tnaghulvarshan?style=for-the-badge"/>
-  </a>
+<a href="https://github.com/tnaghulvarshan">
+<img src="https://img.shields.io/github/stars/tnaghulvarshan?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 MCA Student at Saveetha College of Liberal Arts and Sciences
+🎓 MCA Student
 
 💻 Passionate Software Developer
 
-🌱 Currently Learning
+🌱 Currently learning Java Spring Boot & Full Stack Development
 
-- Spring Boot
-- React Native
-- Cloud Computing
-- System Design
-
-🚀 Current Projects
-
-- 📱 Linksy – Business Networking Platform
-- 👶 PediaCare – Healthcare Management System
-- 🕶 FocusLab – Unity VR Application
-
-🎯 Career Goal
-
-Become a Software Engineer in a Product-Based Company.
+🚀 Interested in building scalable web applications and REST APIs.
 
 ---
 
@@ -50,85 +46,85 @@ Become a Software Engineer in a Product-Based Company.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/naghul-varshan-t-108ba4303">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:naghulvarshan278@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:naghulvarshan278@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://linkedin.com/in/naghul-varshan-t-108ba4303">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tnaghulvarshan">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🌐 Portfolio
+
+🚧 Coming Soon...
+
+---
+
+# 🎧 Spotify
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,js,html,css,bootstrap,git,github,postman,firebase,vscode,androidstudio,figma,c,cpp,python&perline=7"/>
-
+<a href="https://open.spotify.com/">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</a>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-## 📱 Linksy
-
-Business Networking Platform built using React Native.
-
-**Tech Stack**
-
-- React Native
-- Spring Boot
-- MySQL
+> Replace **YOUR_SPOTIFY_USER_ID** with your Spotify User ID.
 
 ---
 
-## 👶 PediaCare
+# 💻 Skills
 
-Healthcare application for Pediatric Clinics.
+### Programming Languages
 
-### Features
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
+</p>
 
-- Appointment Booking
-- Vaccination Reminder
-- Patient Records
-- Diet Recommendation
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman"/>
+</p>
+
+### Other Technologies
+
+- Unity 3D (VR Development)
 
 ---
 
-## 🎓 LearnDude
-
-Learning Management System developed using MERN Stack.
-
-### Features
-
-- Authentication
-- Course Management
-- Responsive Dashboard
-- REST APIs
-
----
-
-## 🕶 FocusLab
-
-VR-based Interactive Application developed using Unity.
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tnaghulvarshan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tnaghulvarshan&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnaghulvarshan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnaghulvarshan&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -138,7 +134,7 @@ VR-based Interactive Application developed using Unity.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=tnaghulvarshan&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=tnaghulvarshan&theme=tokyonight"/>
 
 </p>
 
@@ -164,76 +160,8 @@ VR-based Interactive Application developed using Unity.
 
 ---
 
-# 🛠 Languages & Tools
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,git,github,postman,firebase,vscode,androidstudio"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Spring Security
-- JWT Authentication
-- Docker
-- AWS
-- Kubernetes
-- React Native
-- Microservices
-
----
-
-# 📂 My Projects
-
-| Project | Description |
-|---------|-------------|
-| Linksy | Business Networking Platform |
-| PediaCare | Child Healthcare Management |
-| LearnDude | MERN Learning Management System |
-| FocusLab | Unity VR Project |
-| Student Result Management | Spring Boot Result Portal |
-
----
-
-# ⚡ Fun Fact
-
-```java
-while(!success){
-    learn();
-    build();
-    improve();
-}
-```
-
----
-
-# 📫 Contact Me
-
-📧 Email
-
-**naghulvarshan278@gmail.com**
-
-📍 Chennai, Tamil Nadu, India
-
----
-
-# ❤️ Support
-
-If you like my work,
-
-⭐ Star my repositories
-
-🍴 Fork my projects
-
-🤝 Connect with me on LinkedIn
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer"/>
 
 </p>
